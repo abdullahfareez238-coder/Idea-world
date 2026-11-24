@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D142B"/>
+      <stop offset="100%" stop-color="#070B19"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="128" y1="96" x2="384" y2="416" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)"/>
+  <rect x="20" y="20" width="472" height="472" rx="96" stroke="#8B5CF6" stroke-opacity="0.28" stroke-width="6"/>
+  <path d="M256 108C188.621 108 134 162.621 134 230C134 275.43 158.81 315.07 195.62 336.02C205.24 341.49 212 351.23 212 362.3V372C212 385.255 222.745 396 236 396H276C289.255 396 300 385.255 300 372V362.3C300 351.23 306.76 341.49 316.38 336.02C353.19 315.07 378 275.43 378 230C378 162.621 323.379 108 256 108Z" fill="url(#accentGrad)"/>
+  <path d="M220 226L256 174L292 226L256 278L220 226Z" fill="#070B19" fill-opacity="0.9"/>
+  <rect x="218" y="414" width="76" height="18" rx="9" fill="#C4B5FD"/>
+  <rect x="230" y="444" width="52" height="14" rx="7" fill="#8B5CF6" fill-opacity="0.8"/>
+</svg>

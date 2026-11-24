@@ -1,0 +1,6 @@
+{
+  "name": "IDEA WORLD",
+  "description": "Discover creative project ideas tailored to your tools, budget, skills, and time, and turn them into structured real-world builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
